@@ -26,7 +26,7 @@ async function handler(m, { Pyz, isCreator, isPremium, runtime, sleep, qloc }) {
 ║ ⏳ *Uptime      :* ${runtime(process.uptime())}   
 ║ 🕒 *Server Time :* ${runtime(os.uptime())}  
 ║ 🛠️ *Version     :* ${global.versi}  
-║ 📣 *Channel Dev :* Klik Disini  
+║ 📣 *Channel Dev :* Not Found  
 ╚═══════════════════╝  
 
 👤 🔹 𝗜𝗡𝗙𝗢 𝗨𝗦𝗘𝗥 🔹
@@ -55,7 +55,7 @@ Pyz.sendMessage(m.chat, {
     nativeFlowInfo: {
       name: 'single_select',
       paramsJson: JSON.stringify({
-        title: 'M̴̨̦͓̰̌͆̉̃̄͆͜ͅẹ̷͓̺̰̽̍͛̉̐̔͋̓̚͜️ṉ̵͓̬͈̞̥̭̥̇̓̔͋i̵̢̢̡͚̩̞̥͕̜̻̫̩̐̈͘͜ B̴̢̠̋̊͑̈̾̑̊͒͗̽o̶̯͎̱͐̇͋̅̃̈́͋̽̊̀̓͊̃́͋̓t̵̏͛̃̍́̈̚͜͝z̵͉̺̩̰͍̞̘̯̹͕̺̮̙͗ P̴̘̤̯͙͐̔̍͊̑̏́̌̇̎̓̀͘â̸̙͐͑̌̿͛̽l̷̢̨̨̫̼͙̞͉̗͉̖̲̖̞̿̉l̷̢̨̨̫̼͙̞͉̗͉̖̲̖̞̿̉z̵͉̺̩̰͍̞̘̯̹͕̺̮̙͗z̵͉̺̩̰͍̞̘̯̹͕̺̮̙͗',
+        title: 'KLIK DI SINI',
         sections: [
 {title: "# 𝗔𝗟𝗟 𝗠𝗘𝗡𝗨 𝗕𝗢𝗧", rows: [ {title: "📂 𝗔𝗟𝗟 𝗠𝗘𝗡𝗨", description: "Menampilkan All Menu/All Fitur Yang Tersedia", id: '.allmenu' }]},
 {title: "# 𝗖𝗣𝗔𝗡𝗘𝗟 𝗢𝗪𝗡𝗘𝗥", rows: [{ title:  "🤖 𝗖𝗣𝗔𝗡𝗘𝗟 𝗢𝗪𝗡𝗘𝗥👑", description: "🤖 Membuat servers Owner panel pterodactyl", id: `.cpanel` }]},
